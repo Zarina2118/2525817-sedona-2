@@ -2,7 +2,7 @@
 
 * Студент: [Зарина Собирова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2525817).
 * Наставник: [Кенан Агаев](https://htmlacademy.ru/profile/kenakula).
-
+* Сайт: [Мой проект Седона](https://zarina2118.github.io/2525817-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
