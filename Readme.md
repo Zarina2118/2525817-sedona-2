@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Зарина Собирова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2525817).
-* Наставник: `Неизвестно`.
+* Наставник: [Кенан Агаев](https://htmlacademy.ru/profile/kenakula).
 
 ---
 
