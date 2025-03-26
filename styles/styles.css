@@ -1,0 +1,176 @@
+@font-face {
+  font-family: "PT Sans" serif;
+  src: url(../fonts/ptsans-regular.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans" serif;
+  src: url(../fonts/ptsans-bold.woff2) format("woff2");
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+}
+
+body {
+  font-family: "PT Sans, sans-serif";
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  color: #333333;
+  background-color: #f2f2f2;
+}
+
+.page-header {
+ color: #333333;
+ background-color: #ffffff;
+}
+
+.visually-hidden {
+ position: absolute;
+ width: 1px;
+ height: 1px;
+ margin: -1px;
+ border: 0;
+ padding: 0;
+ white-space: nowrap;
+ clip-path: inset(100%);
+ clip: rect(0 0 0 0);
+ overflow: hidden;
+}
+
+.navigation-link {
+ font-family: "PT Sans", sans-serif;
+ line-height: 24px;
+ font-weight: 700;
+ text-align: center;
+ background-color: #ffffff;
+ font-size: 20px;
+ text-decoration: none;
+ text-transform: uppercase;
+}
+
+.main-index {
+  color: #333333;
+  background-color: #f2f2f2;
+}
+
+.hero {
+  background-image: url(../images/Vector.svg), url("../images/index-background.jpg");
+  background-size: 100%, auto, cover;
+  background-repeat: no-repeat;
+  background-position: left bottom, left top;
+}
+
+.advantages-list {
+text-align: center;
+}
+
+.advantages-title {
+  font-family: "PT Sans" , sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+.highlight {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.highlight-text {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.main-index .mailing-list-block{
+  background-image: url(../images/main-footer.jpg);
+  background-size: 100%, auto, cover;
+  background-repeat: no-repeat;
+}
+
+.inner-header {
+  background-image: url(../images/main-inner.jpg);
+  background-size: 100%, auto, cover;
+  background-repeat: no-repeat;
+}
+
+.button {
+ font-family: "PT Sans", sans-serif;
+ font-weight: 700;
+ font-size: 20px;
+ line-height: 36px;
+ text-align: center;
+ text-transform: uppercase;
+}
+
+.button {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #82b3d3;
+  text-transform: uppercase;
+}
+
+.button-brown {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #756157;
+  text-transform: uppercase;
+}
+
+.button-reset {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #E5E5E5;
+  text-transform: uppercase;
+}
+
+.select-control {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+  background-color: #E5E5E5;
+}
+
+.pagination-item-link {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #82b3d3;
+  text-transform: uppercase;
+}
+
+.pagination-item-link-current {
+  color: #333333;
+  background-color: #E5E5E5;
+}
